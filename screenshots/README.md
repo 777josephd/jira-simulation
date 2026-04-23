@@ -1,1 +1,1 @@
-Placeholder
+Screenshots for the Jira simulation lab.
